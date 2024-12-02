@@ -1,0 +1,14 @@
+{
+    "name": "aoc2024",
+    "version": "1.0.0",
+    "scripts": {
+        "1": "node 1/main.js"
+    },
+    "author": {
+        "name": "Nenad Petkovic",
+        "email": "root@nenad-petkovic.com",
+        "url": "https://nenad-petkovic.com"
+    },
+    "license": "MIT",
+    "description": "Advent of Code 2024"
+}
